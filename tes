@@ -1,0 +1,402 @@
+[
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "Thriller",
+    "isbn": "9781250301697",
+    "copies": 5,
+    "image": "https://picsum.photos/seed/book1/200/300"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-help",
+    "isbn": "9780735211292",
+    "copies": 7,
+    "image": "https://picsum.photos/seed/book2/200/300"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "isbn": "9780451524935",
+    "copies": 6,
+    "image": "https://picsum.photos/seed/book3/200/300"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic",
+    "isbn": "9780061120084",
+    "copies": 8,
+    "image": "https://picsum.photos/seed/book4/200/300"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "isbn": "9780062315007",
+    "copies": 10,
+    "image": "https://picsum.photos/seed/book5/200/300"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "genre": "History",
+    "isbn": "9780062316097",
+    "copies": 4,
+    "image": "https://picsum.photos/seed/book6/200/300"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "Self-help",
+    "isbn": "9780062457714",
+    "copies": 6,
+    "image": "https://picsum.photos/seed/book7/200/300"
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "genre": "Memoir",
+    "isbn": "9780399590504",
+    "copies": 3,
+    "image": "https://picsum.photos/seed/book8/200/300"
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "genre": "Fantasy",
+    "isbn": "9780525559474",
+    "copies": 9,
+    "image": "https://picsum.photos/seed/book9/200/300"
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Historical Fiction",
+    "isbn": "9780375842207",
+    "copies": 7,
+    "image": "https://picsum.photos/seed/book10/200/300"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "genre": "Finance",
+    "isbn": "9781612680194",
+    "copies": 6,
+    "image": "https://picsum.photos/seed/book11/200/300"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Classic",
+    "isbn": "9780316769488",
+    "copies": 4,
+    "image": "https://picsum.photos/seed/book12/200/300"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "isbn": "9780743273565",
+    "copies": 5,
+    "image": "https://picsum.photos/seed/book13/200/300"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Science Fiction",
+    "isbn": "9780060850524",
+    "copies": 6,
+    "image": "https://picsum.photos/seed/book14/200/300"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "Psychology",
+    "isbn": "9780374533557",
+    "copies": 7,
+    "image": "https://picsum.photos/seed/book15/200/300"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "isbn": "9780441172719",
+    "copies": 5,
+    "image": "https://picsum.photos/seed/book16/200/300"
+  },
+  {
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "genre": "Spirituality",
+    "isbn": "9781577314806",
+    "copies": 6,
+    "image": "https://picsum.photos/seed/book17/200/300"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "Post-apocalyptic",
+    "isbn": "9780307387899",
+    "copies": 4,
+    "image": "https://picsum.photos/seed/book18/200/300"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genre": "Thriller",
+    "isbn": "9780307588371",
+    "copies": 6,
+    "image": "https://picsum.photos/seed/book19/200/300"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "isbn": "9780547928227",
+    "copies": 10,
+    "image": "https://picsum.photos/seed/book20/200/300"
+  },
+  {
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "genre": "Biography",
+    "isbn": "9781451648539",
+    "copies": 4,
+    "image": "https://picsum.photos/seed/book21/200/300"
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "genre": "Memoir",
+    "isbn": "9781524763138",
+    "copies": 6,
+    "image": "https://picsum.photos/seed/book22/200/300"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "Mystery",
+    "isbn": "9780735219090",
+    "copies": 7,
+    "image": "https://picsum.photos/seed/book23/200/300"
+  },
+  {
+    "title": "A Man Called Ove",
+    "author": "Fredrik Backman",
+    "genre": "Contemporary",
+    "isbn": "9781476738024",
+    "copies": 5,
+    "image": "https://picsum.photos/seed/book24/200/300"
+  },
+  {
+    "title": "The Four Agreements",
+    "author": "Don Miguel Ruiz",
+    "genre": "Spirituality",
+    "isbn": "9781878424310",
+    "copies": 4,
+    "image": "https://picsum.photos/seed/book25/200/300"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "isbn": "9780307743657",
+    "copies": 5,
+    "image": "https://picsum.photos/seed/book26/200/300"
+  },
+  {
+    "title": "Inferno",
+    "author": "Dan Brown",
+    "genre": "Mystery",
+    "isbn": "9781400079155",
+    "copies": 6,
+    "image": "https://picsum.photos/seed/book27/200/300"
+  },
+  {
+    "title": "The 5 Love Languages",
+    "author": "Gary Chapman",
+    "genre": "Relationships",
+    "isbn": "9780802412706",
+    "copies": 5,
+    "image": "https://picsum.photos/seed/book28/200/300"
+  },
+  {
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "genre": "Non-fiction",
+    "isbn": "9780316017930",
+    "copies": 6,
+    "image": "https://picsum.photos/seed/book29/200/300"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "isbn": "9780590353427",
+    "copies": 10,
+    "image": "https://picsum.photos/seed/book30/200/300"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "genre": "Romance",
+    "isbn": "9780525478812",
+    "copies": 7,
+    "image": "https://picsum.photos/seed/book31/200/300"
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "genre": "Thriller",
+    "isbn": "9781594634024",
+    "copies": 6,
+    "image": "https://picsum.photos/seed/book32/200/300"
+  },
+  {
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "genre": "Romance",
+    "isbn": "9780143124542",
+    "copies": 4,
+    "image": "https://picsum.photos/seed/book33/200/300"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "Dystopian",
+    "isbn": "9780439023481",
+    "copies": 9,
+    "image": "https://picsum.photos/seed/book34/200/300"
+  },
+  {
+    "title": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "Romance",
+    "isbn": "9781501110368",
+    "copies": 6,
+    "image": "https://picsum.photos/seed/book35/200/300"
+  },
+  {
+    "title": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "Thriller",
+    "isbn": "9781791392796",
+    "copies": 5,
+    "image": "https://picsum.photos/seed/book36/200/300"
+  },
+  {
+    "title": "The Outsiders",
+    "author": "S.E. Hinton",
+    "genre": "Young Adult",
+    "isbn": "9780142407332",
+    "copies": 6,
+    "image": "https://picsum.photos/seed/book37/200/300"
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "genre": "Mythology",
+    "isbn": "9780316556347",
+    "copies": 5,
+    "image": "https://picsum.photos/seed/book38/200/300"
+  },
+  {
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "genre": "Drama",
+    "isbn": "9781984822178",
+    "copies": 4,
+    "image": "https://picsum.photos/seed/book39/200/300"
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "isbn": "9780553418026",
+    "copies": 6,
+    "image": "https://picsum.photos/seed/book40/200/300"
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "isbn": "9780593135204",
+    "copies": 5,
+    "image": "https://picsum.photos/seed/book41/200/300"
+  },
+  {
+    "title": "The House in the Cerulean Sea",
+    "author": "TJ Klune",
+    "genre": "Fantasy",
+    "isbn": "9781250217318",
+    "copies": 5,
+    "image": "https://picsum.photos/seed/book42/200/300"
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "genre": "Dystopian",
+    "isbn": "9780544336261",
+    "copies": 4,
+    "image": "https://picsum.photos/seed/book43/200/300"
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "genre": "Fantasy",
+    "isbn": "9780307744432",
+    "copies": 5,
+    "image": "https://picsum.photos/seed/book44/200/300"
+  },
+  {
+    "title": "The Paris Library",
+    "author": "Janet Skeslien Charles",
+    "genre": "Historical Fiction",
+    "isbn": "9781982134198",
+    "copies": 4,
+    "image": "https://picsum.photos/seed/book45/200/300"
+  },
+  {
+    "title": "The Henna Artist",
+    "author": "Alka Joshi",
+    "genre": "Historical Fiction",
+    "isbn": "9780778309451",
+    "copies": 5,
+    "image": "https://picsum.photos/seed/book46/200/300"
+  },
+  {
+    "title": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "genre": "Drama",
+    "isbn": "9780735224315",
+    "copies": 6,
+    "image": "https://picsum.photos/seed/book47/200/300"
+  },
+  {
+    "title": "The Vanishing Half",
+    "author": "Brit Bennett",
+    "genre": "Historical Fiction",
+    "isbn": "9780525536291",
+    "copies": 5,
+    "image": "https://picsum.photos/seed/book48/200/300"
+  },
+  {
+    "title": "Before We Were Strangers",
+    "author": "Renée Carlino",
+    "genre": "Romance",
+    "isbn": "9781501105777",
+    "copies": 4,
+    "image": "https://picsum.photos/seed/book49/200/300"
+  },
+  {
+    "title": "The Last Thing He Told Me",
+    "author": "Laura Dave",
+    "genre": "Mystery",
+    "isbn": "9781501171345",
+    "copies": 5,
+    "image": "https://picsum.photos/seed/book50/200/300"
+  }
+]
